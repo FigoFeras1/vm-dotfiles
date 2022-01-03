@@ -1,0 +1,4 @@
+[[ $(fgconsole 2>/dev/null) == 1 ]] && exec startx -- vt1
+#exec xmobar -x 0 home/figo/.config/xmobar/xmobarrc
+export LC_ALL=en_US.UTF-8
+exec xrandr -s 1920x1080

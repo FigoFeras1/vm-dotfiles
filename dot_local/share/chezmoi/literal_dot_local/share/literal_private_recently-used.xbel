@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/figo/Downloads/WS-33171.jpg" added="2021-12-19T23:51:10.705190Z" modified="2021-12-20T01:12:15.258836Z" visited="2021-12-19T23:51:10.705191Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-12-19T23:51:10.705192Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-20T01:12:15.258834Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/figo/Downloads/fps.jpg" added="2021-12-20T00:06:04.391222Z" modified="2021-12-20T00:06:04.391226Z" visited="2021-12-20T00:06:04.391223Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-20T00:06:04.391224Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/figo/Downloads" added="2021-12-20T00:10:23.005142Z" modified="2021-12-20T00:10:23.005145Z" visited="2021-12-20T00:10:23.005142Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2021-12-20T00:10:23.005143Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/figo/downloads" added="2021-12-20T04:21:50.078902Z" modified="2021-12-20T04:21:50.078906Z" visited="2021-12-20T04:21:50.078903Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2021-12-20T04:21:50.078904Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/figo/.xmonad/xmonad.hs" added="2021-12-27T20:12:46.608380Z" modified="2021-12-27T20:12:46.608384Z" visited="2021-12-27T20:12:46.608381Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-haskell"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2021-12-27T20:12:46.608382Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/figo/downloads/WS-33171.jpg" added="2021-12-29T07:14:33.261977Z" modified="2021-12-30T01:25:19.309167Z" visited="2021-12-29T07:14:33.261977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2021-12-30T01:25:19.309165Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/figo/.config/kitty/kitty.conf" added="2021-12-30T18:49:09.937986Z" modified="2021-12-30T18:49:09.937990Z" visited="2021-12-30T18:49:09.937987Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="discord" exec="&apos;discord %u&apos;" modified="2021-12-30T18:49:09.937988Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
