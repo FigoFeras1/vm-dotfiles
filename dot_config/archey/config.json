@@ -1,0 +1,26 @@
+{
+	"suppress_warnings": true,
+	"honor_ansi_color": true,
+
+	"entries":[
+		{"type": "User"},
+		{"type": "Hostname"},
+		{"type": "Uptime"},
+		{"type": "Model"},
+		{"type": "Distro"},
+		{"type": "Window Manager"},
+		{"type": "Processes"},
+		{"type": "Shell"},
+		{"type": "Packages"},
+
+		{
+			"type": "RAM",
+			"warning_use_percent": 33.3,
+			"danger_use_percent": 66.7
+		},
+
+		{"type": "Packages"}
+
+
+	]
+}

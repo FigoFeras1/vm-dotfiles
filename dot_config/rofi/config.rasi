@@ -1,0 +1,8 @@
+@theme "~/.config/rofi/rofi-dark.rasi"
+
+configuration {
+    modi: "drun,window,run";
+    show-icons: true;
+    terminal: "kitty";
+    sidebar-mode: true;
+}

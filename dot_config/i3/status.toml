@@ -1,0 +1,45 @@
+# vim: set ft=toml:
+
+theme = "nord-dark"
+icons = "awesome5"
+
+[[block]]
+block = "uptime"
+interval = 1
+
+[[block]]
+block         = "memory"
+format_mem    = "{mem_used}/{mem_total}({mem_used_percents})"
+format_swap   = "{swap_used}/{swap_total}({swap_used_percents})"
+display_type  = "memory"
+icons         = true
+clickable     = true
+interval      = 2
+warning_mem   = 80
+warning_swap  = 80
+critical_mem  = 95
+critical_swap = 95
+
+[[block]]
+block    = "cpu"
+interval = 2
+format   = "{barchart} {frequency} {utilization}"
+
+[[block]]
+block              = "music"
+player             = "spotify"
+buttons            = ["prev","play", "next"]
+on_collapsed_click = "spotify"
+
+[[block]]
+block    = "time"
+format   = "%a %m/%d %H:%M:%S"
+interval = 1
+
+[[block]]
+block = "pacman"
+interval = 300
+icons_format = "{icon} "
+format = "{pacman} updates available"
+format_singular = "{pacman} updates available"
+format_up_to_date = "0"
